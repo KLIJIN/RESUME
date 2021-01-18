@@ -28,7 +28,7 @@
   - Webstorm, SublimeText, VSCode
   - Windows, Linux
   
-  ### Мои некоммерческие проекты:
+  ### Мои коммерческие проекты(в основном фриланс):
 
 <div class="w3-responsive">
 <font size="12px">
