@@ -1,7 +1,15 @@
-# Artem Lusnikov &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://spb.hh.ru/resume/1786c1f3ff071f524b0039ed1f506e61747256)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://tele.click/artem_owiii)  [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/OWIII)  [![](https://img.shields.io/badge/-codepen-%23000000)](https://codepen.io/OWIII/pens/public)
+# Artem Lusnikov &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://spb.hh.ru/resume/1786c1f3ff071f524b0039ed1f506e61747256)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://tele.click/domowoiii)  [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/OWIII)  [![](https://img.shields.io/badge/-codepen-%23000000)](https://codepen.io/OWIII/pens/public)
 ```
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
+  ### Стек технологий(актуальность на 2021 год):
+  - TypeScript, JavaScript(ES Next)
+  - React, немного React Native, Mobx
+  - CSS, SASS/SCSS, БЭМ, OOCSS, Atomic CSS, Flex, Grid
+  - Bootstrap, React-Boostrap, Ant Design, HansonTable
+  - CSS, JS, SVG анимации
+  - Git, Webpack, Gulp
+  
   ### Стек технологий(актуальность на 2020 год):
   - TypeScript, JavaScript(ES Next), Next.js
   - React, React-Redux, React-Router, Redux-Act, Redux-Saga, React-Hooks
@@ -19,6 +27,55 @@
   - Git, Github, Gitlab, Bitbucket
   - Webstorm, SublimeText, VSCode
   - Windows, Linux
+  
+  ### Мои некоммерческие проекты:
+
+<div class="w3-responsive">
+<font size="12px">
+<table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
+<thead>
+<tr class="w3-white">
+<th width="40%">Проект</th>
+<th width="60%">Технологии</th>
+<th>Категория</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://finex-etf.ru/">Сайт компании FINEX-ETF</a></td>
+<td>React, Redux, CSS in JS, SCSS, Material UI</td>
+<td align="center">Вёрстка, Логика</td>
+</tr>
+<tr>
+<td><a href="http://iq.fox-m.com/">Адаптивная верстка, анимации</a></td>
+<td>HTML, SCSS, WordPress</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
+<td><a href="https://demo.lpunity.com/clickstar/">Адаптивная верстка</a></td>
+<td>Pug, SCSS, JS</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
+<td><a href="https://manbox.ru/">Адаптивная верстка</a></td>
+<td>Pug, SCSS, JS</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
+<td><a href="https://zolacreative.com/">Адаптивная верстка</a></td>
+<td>HTML, SCSS, JS</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
+<td><a href="https://pro.tourhunter.com/ru/">Адаптивная верстка</a></td>
+<td>HTML, SCSS, JS</td>
+<td align="center">Вёрстка</td>
+</tr>
+</tbody>
+</table>
+</font>
+</div>
+</br>
 
  ### Мои некоммерческие проекты:
 
